@@ -1,6 +1,6 @@
 import os
 
-api_key= "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"
+api_key= "sk-****"
 
 
 import streamlit as st
